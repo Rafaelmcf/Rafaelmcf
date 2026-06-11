@@ -11,9 +11,9 @@ Hoje, aplico essa mentalidade operacional na nuvem: **construindo, documentando 
 
 - 🎓 Cursando **Gestão da Tecnologia da Informação**
 - ☁️ Formação **AWS** pela [Escola da Nuvem](https://escoladanuvem.org)
-- 🔭 Recém-concluído: **pipeline CI/CD com GitHub Actions** no meu laboratório DevOps
-- 🌱 Próximo passo: **observabilidade com Prometheus e Grafana** · aprofundando Linux, redes e serviços AWS
-- 🗣️ Português (nativo) · Inglês (profissional)
+- 🔭 Construindo agora: [**Cloud Observability Lab**](https://github.com/Rafaelmcf/cloud-observability-lab) — Prometheus, Grafana e resposta a incidentes na AWS
+- 🌱 Aprofundando: **Linux, redes e serviços AWS**
+- 🗣️ Português (nativo) · Inglês (intermediário)
 
 ---
 
@@ -23,10 +23,9 @@ Hoje, aplico essa mentalidade operacional na nuvem: **construindo, documentando 
 |---------|-----------|-------|:------:|
 | ⚡ [CloudFunFacts](https://github.com/Rafaelmcf/cloudfunfacts) | Aplicação serverless que gera curiosidades com IA generativa — arquitetura orientada a eventos | Lambda · API Gateway · DynamoDB · Bedrock | ✅ |
 | 🐳 [DevOps Lab](https://github.com/Rafaelmcf/devops-lab-docker-ec2) | Laboratório DevOps completo: deploy manual → IaC com Terraform → CI/CD com GitHub Actions | Docker · ECR · EC2 · Terraform · GitHub Actions | ✅ |
+| 📊 [Cloud Observability Lab](https://github.com/Rafaelmcf/cloud-observability-lab) | Observabilidade e resposta a incidentes na AWS: rede do zero, Prometheus, Grafana e runbooks | Terraform · VPC · EC2 · Prometheus · Grafana | 🔄 Em andamento |
 
-📐 *Os dois projetos incluem README detalhado e diagrama de arquitetura — documentação clara também é engenharia.*
-
----
+📐 *Todos os projetos incluem README detalhado e diagrama de arquitetura — documentação clara também é engenharia.*
 
 ## 🛠️ Tech Stack
 
